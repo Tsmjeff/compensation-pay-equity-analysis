@@ -57,5 +57,5 @@ The organization needed a clearer view of whether employees were being paid fair
 
 ## Project Files
 
-- [Power BI Dashboard](compensation_pay_equity_analysis.pbix)
+- [Power BI Dashboard](Compensation_Pay_Equity_Power_BI.pbix)
 - [Pay Equity Case Study](pay_equity_case_study.pdf)
