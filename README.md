@@ -21,7 +21,7 @@ The organization needed a clearer view of whether employees were being paid fair
 
 ## Dashboard Preview
 
-![compensation-pay-equity-analysis](pay_equity_dashboard.jpg)
+![Compensation and Pay Equity Dashboard](Pay_Equity_Dashboard.jpg)
 
 ## Key Insights
 
